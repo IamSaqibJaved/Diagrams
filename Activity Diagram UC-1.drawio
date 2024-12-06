@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="2">
   <diagram name="Page-1" id="howEqOjZBWDX22ehPjeI">
     <mxGraphModel dx="1588" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -178,6 +178,239 @@
         </mxCell>
         <mxCell id="dAg2XJaBtzKmiSdX0UjU-41" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="dAg2XJaBtzKmiSdX0UjU-54">
           <mxGeometry x="5" y="5" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fO52N7WiiWnExAHIGCbI" name="Page-2">
+    <mxGraphModel dx="934" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="420" y="104" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-5" target="ahplz6HUMnmoF2mp_-Vn-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-5" value="Start navigation on the assigned delivery route" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="351" y="150" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-52" target="ahplz6HUMnmoF2mp_-Vn-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-52" value="System begins monitoring Real-Time traffic and weather data" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="350" y="240" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-95" target="ahplz6HUMnmoF2mp_-Vn-68">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-58" target="ahplz6HUMnmoF2mp_-Vn-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-58" target="ahplz6HUMnmoF2mp_-Vn-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-58" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="411" y="340" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-65" value="Traffic delay detected?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="400" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-68" target="ahplz6HUMnmoF2mp_-Vn-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-68" target="ahplz6HUMnmoF2mp_-Vn-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-68" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="454" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-69" value="Traffic data&amp;nbsp;&lt;div&gt;outdated?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="424" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-75" target="ahplz6HUMnmoF2mp_-Vn-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-75" value="Switch to manual route" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="480" y="504" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="ahplz6HUMnmoF2mp_-Vn-78" target="ahplz6HUMnmoF2mp_-Vn-79" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-78" value="Recalculate Route" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="480" y="584" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-79" target="ahplz6HUMnmoF2mp_-Vn-116">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-79" value="Update rider with new directions" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="480" y="654" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="373.07692307692287" y="560.9230769230771" as="sourcePoint" />
+            <mxPoint x="373" y="581" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-81" target="ahplz6HUMnmoF2mp_-Vn-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-81" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="358" y="499" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-85" value="Traffic data&amp;nbsp;&lt;div&gt;unavailable?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="464" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="373.07692307692287" y="631" as="sourcePoint" />
+            <mxPoint x="373.07692307692287" y="661" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-88" target="ahplz6HUMnmoF2mp_-Vn-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-88" value="Inform Rider of data unavailability" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="298" y="547" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-90" target="ahplz6HUMnmoF2mp_-Vn-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-90" value="Continuous navigation with initial route" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="298" y="620" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="ahplz6HUMnmoF2mp_-Vn-93" target="ahplz6HUMnmoF2mp_-Vn-94" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-93" value="Recalculate Route" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="93" y="490" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-94" target="ahplz6HUMnmoF2mp_-Vn-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-94" value="Update rider with new directions" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="93" y="560" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-95" target="ahplz6HUMnmoF2mp_-Vn-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-95" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="153" y="420" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-97" value="Adverse weather detected?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="320" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-99" target="ahplz6HUMnmoF2mp_-Vn-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-99" target="ahplz6HUMnmoF2mp_-Vn-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="966" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-99" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="726" y="430" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-101" target="ahplz6HUMnmoF2mp_-Vn-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-101" value="Inform Rider of weather hazards" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="666" y="480" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-103" target="ahplz6HUMnmoF2mp_-Vn-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-103" value="Rider decides wether to proceed" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="666" y="560" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-106" target="ahplz6HUMnmoF2mp_-Vn-110">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="911" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-106" value="Proceed without notifications" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="836" y="480" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-110" target="ahplz6HUMnmoF2mp_-Vn-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-110" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="664" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-116" target="ahplz6HUMnmoF2mp_-Vn-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-116" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="760" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695.0769230769229" y="759.9230769230771" as="sourcePoint" />
+            <mxPoint x="695" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695.0769230769229" y="830" as="sourcePoint" />
+            <mxPoint x="695.0769230769229" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="ahplz6HUMnmoF2mp_-Vn-123" target="ahplz6HUMnmoF2mp_-Vn-124" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-123" value="Inform Rider of data unavailability" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="620" y="756" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-124" target="ahplz6HUMnmoF2mp_-Vn-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-124" value="Continuous navigation with initial route" style="rounded=1;whiteSpace=wrap;html=1;align=center;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="620" y="819" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-126" target="ahplz6HUMnmoF2mp_-Vn-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-126" target="ahplz6HUMnmoF2mp_-Vn-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-126" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="720" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-131" target="ahplz6HUMnmoF2mp_-Vn-137">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="795" y="1005" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-131" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="900" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ahplz6HUMnmoF2mp_-Vn-137" target="ahplz6HUMnmoF2mp_-Vn-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-137" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="991" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-144" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="425" y="1060" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-146" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1065" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-147" value="Weather data&amp;nbsp;&lt;div&gt;unavailable?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="845" y="680" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-148" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="454" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ahplz6HUMnmoF2mp_-Vn-149" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="400" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
