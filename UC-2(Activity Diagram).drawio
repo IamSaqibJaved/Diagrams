@@ -1,9 +1,132 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="xMJSR3XoTYybtMSvvy1I">
-    <mxGraphModel>
+    <mxGraphModel dx="2227" dy="1865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xFx9iDnlR7trCT4aLByv-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFx9iDnlR7trCT4aLByv-2" target="xFx9iDnlR7trCT4aLByv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="404" y="-1130" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFx9iDnlR7trCT4aLByv-3" target="xFx9iDnlR7trCT4aLByv-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-3" value="Customer logs into the System" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="339" y="-1080" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFx9iDnlR7trCT4aLByv-7" target="xFx9iDnlR7trCT4aLByv-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-7" value="Customer Navigates to the Delivery Scheduling Page" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="339" y="-1010" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFx9iDnlR7trCT4aLByv-9" target="xFx9iDnlR7trCT4aLByv-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-9" value="Customer Selects a Delivery" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="339" y="-930" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFx9iDnlR7trCT4aLByv-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="-835" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFx9iDnlR7trCT4aLByv-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="-835" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-12" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="399" y="-850" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-21" value="Reschedule" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-862" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-22" value="Cancel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-862" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFx9iDnlR7trCT4aLByv-24" target="xFx9iDnlR7trCT4aLByv-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFx9iDnlR7trCT4aLByv-24" target="xFx9iDnlR7trCT4aLByv-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-24" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="-850" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFx9iDnlR7trCT4aLByv-25" target="xFx9iDnlR7trCT4aLByv-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-25" value="System displays available Delivery Dates" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-780" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFx9iDnlR7trCT4aLByv-27" target="xFx9iDnlR7trCT4aLByv-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-27" value="Customer Selects a Date" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-690" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFx9iDnlR7trCT4aLByv-29" target="xFx9iDnlR7trCT4aLByv-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-29" value="System Updates the Package Details" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-609" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-31" value="System sends confirmation notification to the customer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="-520" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFx9iDnlR7trCT4aLByv-33" target="xFx9iDnlR7trCT4aLByv-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="40" y="-985" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-33" value="System prompts the User that the Package cannot be Rescheduled" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="-860" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFx9iDnlR7trCT4aLByv-36" target="xFx9iDnlR7trCT4aLByv-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFx9iDnlR7trCT4aLByv-36" target="xFx9iDnlR7trCT4aLByv-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-36" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-850" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFx9iDnlR7trCT4aLByv-37" target="xFx9iDnlR7trCT4aLByv-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-37" value="System asks User to define the reasons of cancellation&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-780" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xFx9iDnlR7trCT4aLByv-39" target="xFx9iDnlR7trCT4aLByv-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-39" value="System Updates the Package Details" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-690" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-41" value="System sends confirmation notification to the customer" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-609" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xFx9iDnlR7trCT4aLByv-43" target="xFx9iDnlR7trCT4aLByv-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="775" y="-985" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-43" value="System prompts the User that the Package cannot be Canceled" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-860" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-47" value="Valid Date?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-820" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xFx9iDnlR7trCT4aLByv-48" value="Valid Date?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-820" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
