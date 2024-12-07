@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="7">
   <diagram name="Page-1" id="howEqOjZBWDX22ehPjeI">
     <mxGraphModel dx="1588" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -904,7 +904,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="MBO6Rq-sjfXr2QDsHVFd" name="Page-6">
-    <mxGraphModel dx="2614" dy="1009" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1540" dy="395" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1077,6 +1077,134 @@
         </mxCell>
         <mxCell id="olBndClAWOC1fD5ae1_X-62" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="170" y="788" width="40" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="CJiMMoWaOhrvHNz1Lxx5" name="Page-7">
+    <mxGraphModel dx="2294" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5f96dA2NZe0cjbwjjyRv-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5f96dA2NZe0cjbwjjyRv-2" target="5f96dA2NZe0cjbwjjyRv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5f96dA2NZe0cjbwjjyRv-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-54" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5f96dA2NZe0cjbwjjyRv-4" target="JwfzB568hGlwlktw1Zbc-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5f96dA2NZe0cjbwjjyRv-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Rider accesses the registration form on the web app&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-4" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5f96dA2NZe0cjbwjjyRv-6" target="JwfzB568hGlwlktw1Zbc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5f96dA2NZe0cjbwjjyRv-6" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Rider submits the required details for registration&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="130" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JwfzB568hGlwlktw1Zbc-1" target="JwfzB568hGlwlktw1Zbc-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="511" y="215" />
+              <mxPoint x="511" y="85" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JwfzB568hGlwlktw1Zbc-1" target="JwfzB568hGlwlktw1Zbc-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Are all required &lt;br&gt;fields filled correctly?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="177" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JwfzB568hGlwlktw1Zbc-6" target="JwfzB568hGlwlktw1Zbc-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-6" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;System processes the registration and sends it to the admin for approval&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JwfzB568hGlwlktw1Zbc-7" target="JwfzB568hGlwlktw1Zbc-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-7" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Admin reviews the registration details&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="310" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JwfzB568hGlwlktw1Zbc-11" target="5f96dA2NZe0cjbwjjyRv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-11" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Rider fills out the registration form&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="60" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JwfzB568hGlwlktw1Zbc-14" target="JwfzB568hGlwlktw1Zbc-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.467;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JwfzB568hGlwlktw1Zbc-14" target="JwfzB568hGlwlktw1Zbc-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-14" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-16" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Is the registration &lt;br&gt;approved by the admin?&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="357" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-17" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="160" y="210" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="182" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JwfzB568hGlwlktw1Zbc-21" target="JwfzB568hGlwlktw1Zbc-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-21" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Admin rejects the registration and notifies the rider to correct details or retry&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="420" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JwfzB568hGlwlktw1Zbc-22" target="JwfzB568hGlwlktw1Zbc-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-22" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;System sends login credentials to the rider via email&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="420" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JwfzB568hGlwlktw1Zbc-23" target="JwfzB568hGlwlktw1Zbc-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-23" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Rider logs into the rider mobile app&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="490" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JwfzB568hGlwlktw1Zbc-25" target="JwfzB568hGlwlktw1Zbc-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-25" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Rider accesses the dashboard to view assigned deliveries and update delivery statuses&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="560" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JwfzB568hGlwlktw1Zbc-27" target="JwfzB568hGlwlktw1Zbc-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-27" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="630" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-28" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="390" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-29" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;No&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-32" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="680" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JwfzB568hGlwlktw1Zbc-34" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="185" y="685" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
